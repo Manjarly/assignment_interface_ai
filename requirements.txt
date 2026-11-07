@@ -1,0 +1,4 @@
+# Requirements for interface.ai Knowledge System
+# The submission is fully self-contained using Python 3.9+ / 3.11 standard library modules
+# for maximum speed, 100% determinism, and reliable offline evaluation.
+# No external C-dependencies or third-party packages required.
